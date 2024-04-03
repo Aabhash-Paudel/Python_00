@@ -1,0 +1,25 @@
+variable has no command for declaring a variable
+
+x=5
+print(x)
+print(type(x))
+x= 'hello'
+
+print(x)
+
+x= str(3)
+
+y = int(x)
+z= float(y)
+
+
+x,y,z= "orange", "banana", "cherry"
+print(x)
+print(y)
+print(z)
+
+
+//output
+orange
+banana
+cherry
